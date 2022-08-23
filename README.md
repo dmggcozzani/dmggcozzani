@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Marcelo
 - 👀 I’m interested in ... Blockchain Development / Cybersecurity
-- 🌱 I’m currently learning ... Coding / Cybersecurity / Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... Blockchain Dev/ Cybersecurity/ Computer Science
+- 📫 Contact me @ dmggcozzani1224@gmail.com
 
 <!---
 dmggcozzani/dmggcozzani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
